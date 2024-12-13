@@ -41,7 +41,7 @@
 - 사용자는 자신의 사진을 업로드하고 다양한 분석 결과를 확인하며 재미를 얻을 수 있음
 
 ## 2. 화면 구성
-### ■ . 로그인 페이지
+### ■ 로그인 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/e9120ee0-7144-4315-bf4e-6e2179f048fb" width="50%" height="50%"/>
 
 ### ■ 메인 페이지
