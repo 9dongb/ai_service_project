@@ -53,8 +53,8 @@
 ### ■ 결과 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/12b74358-a5c1-4bce-8033-5d5d01abf217" width="50%" height="50%"/>
 
-### 2-5. 마이 페이지
+### ■ 마이 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/5cadf41d-0173-461e-9ad9-96c5aec1425a" width="50%" height="50%"/>
 
-### 2-6. History 페이지
+### ■ History 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/8d6a16d5-7791-4ce9-ab44-9675a2c96d21" width="50%" height="50%"/>
