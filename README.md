@@ -37,20 +37,20 @@
 </details>
 
 ## 1. 개요
-- 사용자의 얼굴 특징을 AI로 분석하여 가볍게 재미를 줄 수 있는 웹 앱
+- 사용자의 **얼굴 특징**을 **AI로 분석**하여 얼굴 특징과 유사한 것들을 찾아주는 서비스
 - 사용자는 자신의 사진을 업로드하고 다양한 분석 결과를 확인하며 재미를 얻을 수 있음
 
 ## 2. 화면 구성
-### 2-1. 로그인 페이지
+### ■ . 로그인 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/e9120ee0-7144-4315-bf4e-6e2179f048fb" width="50%" height="50%"/>
 
-### 2-2. 메인 페이지
+### ■ 메인 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/1f5a25f7-6e04-40a5-b4b5-2102866475ad" width="50%" height="50%"/>
 
-### 2-3. 업로드 페이지
+### ■ 업로드 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/bb4cfedc-e863-4a6b-9f03-41b3e99237f7" width="50%" height="50%"/>
 
-### 2-4. 결과 페이지
+### ■ 결과 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/12b74358-a5c1-4bce-8033-5d5d01abf217" width="50%" height="50%"/>
 
 ### 2-5. 마이 페이지
