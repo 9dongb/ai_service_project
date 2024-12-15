@@ -66,7 +66,7 @@
 ### ■ 마이 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/5cadf41d-0173-461e-9ad9-96c5aec1425a" width="50%" height="50%"/>
 
-- 이용했던 기능 별로 이용 내역 조회 기능 구현
+- Face World에서 이용했던 기능 별로 서비스 이용 결과 조회 기능 구현
 
 ### ■ History 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/8d6a16d5-7791-4ce9-ab44-9675a2c96d21" width="50%" height="50%"/>
