@@ -5,8 +5,8 @@
 
 ### ⚙️ 기술스택
 - **AI**: Tensorflow
-- **Front-End**: HTML, CSS, JavaScript
-- **Back-End**: Flask
+- **Front-end**: HTML, CSS, JavaScript
+- **Back-end**: Flask
 - **Database**: MySQL
 <details>
 <summary>🌳 버전</summary>
