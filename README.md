@@ -44,17 +44,31 @@
 ### ■ 로그인 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/e9120ee0-7144-4315-bf4e-6e2179f048fb" width="50%" height="50%"/>
 
+- 로그인 시 데이터베이스의 정보 조회 후 로그인 기능 구현
+
 ### ■ 메인 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/1f5a25f7-6e04-40a5-b4b5-2102866475ad" width="50%" height="50%"/>
+
+- 로그인 시 사용자 이름 표시 기능 구현
+- 네 가지 이미지 분석 기능 구현
 
 ### ■ 업로드 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/bb4cfedc-e863-4a6b-9f03-41b3e99237f7" width="50%" height="50%"/>
 
+- 이미지 업로드 시 이미지 데이터 전처리 자동화 기능 구현
+- 전처리된 이미지를 파인튜닝한 Inception v3 모델로 분류 및 유사도 도출 기능 구현
+
 ### ■ 결과 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/12b74358-a5c1-4bce-8033-5d5d01abf217" width="50%" height="50%"/>
+
+- AI 모델 결과에 따라 키워드를 추출하여 관련 유튜브 동영상 추천 기능 구현
 
 ### ■ 마이 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/5cadf41d-0173-461e-9ad9-96c5aec1425a" width="50%" height="50%"/>
 
+- 이용했던 기능 별로 이용 내역 조회 기능 구현
+
 ### ■ History 페이지
 <img src="https://github.com/Knell999/ai_service_project/assets/106071689/8d6a16d5-7791-4ce9-ab44-9675a2c96d21" width="50%" height="50%"/>
+
+ - 사용자별 이용 기록을 데이터베이스에서 조회해 표시 및 삭제 기능 구현
